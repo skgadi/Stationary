@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gadi et~al.(2014)Gadi, Osorio, and Lozano]{Gadi2014b}
+S.~K. Gadi, Antonio Osorio, and Rogelio Lozano.
+\newblock {Study of the Interaction between a One Degree of Freedom Force
+  Augmenting Device and a Human Operator}.
+\newblock In \emph{2014 18\textsuperscript{th} International Conference on
+  System Theory, Control and Computing ({ICSTCC})}, pages 7--12. Institute of
+  Electrical {\&} Electronics Engineers ({IEEE}), October 2014.
+\newblock \doi{10.1109/icstcc.2014.6982382}.
+
+\end{thebibliography}
